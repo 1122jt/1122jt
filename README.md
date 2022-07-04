@@ -12,7 +12,7 @@
 
 #### About Me ?
 
-- 🏫  Bachelor’s degree in Mechanical Engineering from the Rajiv Gandhi Institute of Technology, Kottayam, Kerala, India.
+- 🏫  Bachelor’s degree in Mechanical Engineering from  Rajiv Gandhi Institute of Technology, Kottayam, Kerala, India.
 - ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, Java.
 <!-- - ⚡️ Currently working as Software Engineering Intern at [Github](https://github.com/github) and MLH Fellow (Software Engineering Fellow) at [Solana](https://github.com/solana-labs) -->
 - 🔭 Worked with organizations like ([Tiera](https://www.tieraonline.in/))
@@ -60,6 +60,12 @@
 <img height=25 src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp; -->
 
+## 📬 Let's get in touch
+
+<!-- - Twitter: [twitter.com/Dhemiwalnitin][3] -->
+<!-- - Web: [nitindhemiwal.me][1] -->
+- Mail: [jawadtp10@gmail.com][2]
+- LinkedIn: [linkedin.com/in/jawad-tp][2]
 
 ## 📈 Stats
 <p align="center">
