@@ -62,10 +62,11 @@
 
 ## 📬 Let's get in touch
 
-<!-- - Twitter: [twitter.com/Dhemiwalnitin][3] -->
-<!-- - Web: [nitindhemiwal.me][1] -->
-- Mail: [jawadtp10@gmail.com][2]
-- LinkedIn: [linkedin.com/in/jawad-tp][2]
+- Mail: [jawadtp10@gmail.com][1]
+- LinkedIn: [linkedin.com/in/jawad-t-p][2]
+[1]: mailto:jawadtp10@gmail.com
+[2]: https://www.linkedin.com/in/jawad-t-p/
+
 
 ## 📈 Stats
 <p align="center">
