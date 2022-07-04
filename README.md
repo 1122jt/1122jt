@@ -64,9 +64,6 @@
 
 - Mail: [jawadtp10@gmail.com][1]
 - LinkedIn: [linkedin.com/in/jawad-t-p][2]
-[1]: mailto:jawadtp10@gmail.com
-[2]: https://www.linkedin.com/in/jawad-t-p/
-
 
 ## 📈 Stats
 <p align="center">
@@ -74,3 +71,6 @@
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jawad6940&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+[1]: mailto:jawadtp10@gmail.com
+[2]: https://www.linkedin.com/in/jawad-t-p/
