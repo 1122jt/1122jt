@@ -60,10 +60,10 @@
 <img height=25 src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp; -->
 
-## 📬 Let's get in touch
+<!-- ## 📬 Let's get in touch
 
 - Mail: [jawadtp10@gmail.com][1]
-- LinkedIn: [linkedin.com/in/jawad-t-p][2]
+- LinkedIn: [linkedin.com/in/jawad-t-p][2] -->
 
 ## 📈 Stats
 <p align="center">
@@ -72,5 +72,5 @@
 </a>
 </p>
 
-[1]: mailto:jawadtp10@gmail.com
-[2]: https://www.linkedin.com/in/jawad-t-p/
+<!-- [1]: mailto:jawadtp10@gmail.com
+[2]: https://www.linkedin.com/in/jawad-t-p/ -->
