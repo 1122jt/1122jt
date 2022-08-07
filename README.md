@@ -66,11 +66,25 @@
 - LinkedIn: [linkedin.com/in/jawad-t-p][2] -->
 
 ## 📈 Stats
+  <br/>
+    <a href="https://github.com/jawad6940/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jawad6940&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul1258&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
 <p align="center">
-<a href="https://github.com/Jawad6940">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jawad6940&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+    <a href="https://github.com/jawad6940/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jawad T P's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jawad6940&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
+
+
+
+<a href="https://github.com/jawad6940/github-readme-activity-graph"><img alt="Jawad T P's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jawad6940&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 <!-- [1]: mailto:jawadtp10@gmail.com
 [2]: https://www.linkedin.com/in/jawad-t-p/ -->
